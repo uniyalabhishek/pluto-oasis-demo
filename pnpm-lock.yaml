@@ -55,7 +55,7 @@ importers:
         specifier: ^0.2.12
         version: 0.2.14
       '@oasisprotocol/sapphire-hardhat':
-        specifier: ^2.22.2-next.1
+        specifier: ^2.22.2
         version: 2.22.2(hardhat@2.24.0(bufferutil@4.0.9)(ts-node@10.9.2(@swc/core@1.11.29)(@types/node@18.19.103)(typescript@4.9.5))(typescript@4.9.5)(utf-8-validate@5.0.10))
       '@typechain/ethers-v6':
         specifier: ^0.5.1
@@ -8964,7 +8964,7 @@ snapshots:
     dependencies:
       '@adraffy/ens-normalize': 1.11.0
       '@noble/curves': 1.8.1
-      '@noble/hashes': 1.7.1
+      '@noble/hashes': 1.8.0
       '@scure/bip32': 1.6.2
       '@scure/bip39': 1.5.4
       abitype: 1.0.8(typescript@5.8.3)(zod@3.22.4)
